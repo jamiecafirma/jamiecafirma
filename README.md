@@ -1,21 +1,10 @@
 ## Hello World 😎
 
-<!--
-**jamiecafirma/jamiecafirma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 💬 About Me
 I'm Jamie, a software engineer. I have experience with Javascript, React, Node.js, CSS, and more - I'm always looking to learn even more technologies!
+
+## GitHub Stats :trophy:
+[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiecafirma)](https://github.com/jamiecafirma/github-readme-stats)
 
 ## Technologies and Tools
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -39,5 +28,3 @@ I'm Jamie, a software engineer. I have experience with Javascript, React, Node.j
 ## 📫 Let's connect!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jamie-cafirma/)
 
-## GitHub Stats :trophy:
-[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiecafirma)](https://github.com/jamiecafirma/github-readme-stats)
